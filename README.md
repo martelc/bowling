@@ -3,7 +3,7 @@
 Following is a program, which, given a valid sequence of rolls for one line of American Ten-Pin Bowling, produces the total score for the game.
 The following video is a good overview if you are not familiar with American Ten-Pin Bowling: [YouTube](https://www.youtube.com/watch?v=E2d8PizMe-8).
 
-#American Ten-Pin Bowling Scoring Rules
+# American Ten-Pin Bolwing Scoring Rules
 
 - The game consists of 10 frames.
 - In each frame the player has two opportunities to knock down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares.
@@ -13,7 +13,7 @@ The following video is a good overview if you are not familiar with American Ten
 
 More info on the rules at: [TopEndSports](www.topendsports.com/sport/tenpin/scoring.htm)
 
-#Out Of Scope
+# Out Of Scope
 
 Here are some things that the program does not do:
 
@@ -21,7 +21,7 @@ Here are some things that the program does not do:
 - We will not check for correct number of rolls and frames
 - We will not provide scores for intermediate frames
 
-#Assumptions
+# Assumptions
 
 The following assumptions have been made.  Any behaviour outside of these assumptions may result in unintended consequences.
 
