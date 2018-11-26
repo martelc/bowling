@@ -28,8 +28,9 @@ The following assumptions have been made.  Any behaviour outside of these assump
 - Assumes that the sequence of rolls that you input are valid for the values of the rolls
 - Assumes that the values of the rolls are within the maximum number of pins
 - Assumes that the number of frames is valid
-- Assumes you have Java 8 installed (tested on Oracle JDK 1.8.0_66)
-- Assumes you have Maven 3 installed (tested on Apache Maven 3.3.9)
+- Assumes that fouls are treated the same as gutter balls (therefore, a zero score)
+- Assumes that you have Java 8 installed (tested on Oracle JDK 1.8.0_66)
+- Assumes that you have Maven 3 installed (tested on Apache Maven 3.3.9)
 
 # Running The Application
 
